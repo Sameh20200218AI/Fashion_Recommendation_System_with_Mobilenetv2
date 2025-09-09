@@ -55,6 +55,11 @@ pip install faiss-cpu  # or faiss-gpu
 
 ## 🖼️ Visualization
 - Side-by-side plots of the query and top-K retrieved items are generated in the notebook.
+<img width="1489" height="352" alt="image" src="https://github.com/user-attachments/assets/a3797418-6c83-428b-99bb-814fbe1d844d" />
+<img width="1490" height="305" alt="image" src="https://github.com/user-attachments/assets/2d674b8d-62e8-480e-a544-235a64c835c4" />
+<img width="1490" height="305" alt="image" src="https://github.com/user-attachments/assets/9e987250-83a5-4d20-9c99-308e9257eaee" />
+<img width="1490" height="269" alt="image" src="https://github.com/user-attachments/assets/857fcc0c-dac7-48eb-81a5-4ad424b4fba8" />
+
 
 ## 📁 Repository Structure
 ```
